@@ -1,0 +1,15 @@
+{
+  "name": "SampleApp",
+  "displayName": "SampleApp",
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "com.timmywilmot24.StrautoApp",
+    "icon": "./assets/IOSIcon.png"
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/IOSIcon.png",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
